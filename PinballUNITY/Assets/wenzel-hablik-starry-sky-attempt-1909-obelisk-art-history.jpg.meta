@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e58a9ce6b7e0a4c43a9acfcb635a9d9a
+guid: 961fffb64c95f514a8ef3907aba2d157
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3683170113380467368
-    second: slingshot_0
+      213: -8145564549685078653
+    second: wenzel-hablik-starry-sky-attempt-1909-obelisk-art-history_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: slingshot_0
+      name: wenzel-hablik-starry-sky-attempt-1909-obelisk-art-history_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 197
-        height: 301
+        width: 1287
+        height: 1300
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a2c06f24bf3d1330800000000000000
-      internalID: 3683170113380467368
+      spriteID: 3859109f23425fe80800000000000000
+      internalID: -8145564549685078653
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      slingshot_0: 3683170113380467368
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
